@@ -1,5 +1,5 @@
 public class Solution {
-    class Node{
+    static class Node{
         int index;
         int val;
         public Node(int index, int val){
